@@ -13,15 +13,15 @@
 #ext_menu-f .mbr-brand__name a {
   font-size: 22px;
 }
-#msg-box5-h .mbr-header__text {
+#msg-box4-p .mbr-header__text {
   color: #ffffff;
 }
-#msg-box5-h .mbr-header__subtext {
+#msg-box4-p .mbr-header__subtext {
   color: #ffffff;
 }
-#msg-box5-h .mbr-article {
-  color: #eb6b56;
+#msg-box4-p .mbr-article {
+  color: #ffffff;
 }
-#msg-box5-h .mbr-article P {
+#msg-box4-p .mbr-article P {
   text-align: center;
 }
